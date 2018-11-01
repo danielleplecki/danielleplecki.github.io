@@ -1,2 +1,2 @@
 # danielleplecki.github.io
-personal wedbsite
+personal website
